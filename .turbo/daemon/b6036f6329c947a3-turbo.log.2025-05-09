@@ -1,0 +1,38 @@
+2025-05-09T01:22:42.914961Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2025-05-09T01:22:42.915006Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-09T01:22:50.616625Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro"), AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-09T01:22:50.616642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:22:52.616180Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/settings.json")}
+2025-05-09T01:22:52.616204Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:22:52.653106Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-09T01:40:22.037906Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/lib/supabase.ts"), AnchoredSystemPathBuf("apps/frontend/src/lib")}
+2025-05-09T01:40:22.037963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:40:30.584374Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Auth")}
+2025-05-09T01:40:30.584412Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:40:30.592095Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-09T01:40:30.785154Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Auth/LoginForm.svelte")}
+2025-05-09T01:40:30.785481Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:40:44.382647Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/FileUpload/CsvUploader.svelte"), AnchoredSystemPathBuf("apps/frontend/src/components/FileUpload")}
+2025-05-09T01:40:44.382666Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:40:59.883424Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard"), AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard/DataTable.svelte")}
+2025-05-09T01:40:59.883640Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:41:11.186954Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard/PdfExport.svelte")}
+2025-05-09T01:41:11.191845Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:41:19.283280Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/dashboard.astro")}
+2025-05-09T01:41:19.283298Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:41:24.086698Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/login.astro")}
+2025-05-09T01:41:24.086712Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:41:26.383999Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-09T01:41:26.384020Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:41:26.384076Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-09T01:42:18.686319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/dashboard.astro"), AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard/DataTable.svelte"), AnchoredSystemPathBuf("apps/frontend/src/components/Auth/LoginForm.svelte"), AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard/PdfExport.svelte"), AnchoredSystemPathBuf("apps/frontend/src/lib/supabase.ts"), AnchoredSystemPathBuf("apps/frontend/src/pages/login.astro"), AnchoredSystemPathBuf("apps/frontend/src/components/FileUpload/CsvUploader.svelte"), AnchoredSystemPathBuf("turbo.json")}
+2025-05-09T01:42:18.686467Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-09T01:42:19.085208Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/login.astro"), AnchoredSystemPathBuf("apps/frontend/src/components/FileUpload/CsvUploader.svelte"), AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard/DataTable.svelte"), AnchoredSystemPathBuf("turbo.json"), AnchoredSystemPathBuf("apps/frontend/src/lib/supabase.ts"), AnchoredSystemPathBuf("apps/frontend/src/components/Dashboard/PdfExport.svelte"), AnchoredSystemPathBuf("apps/frontend/src/components/Auth/LoginForm.svelte")}
+2025-05-09T01:42:19.085227Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-09T01:42:19.385179Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-09T01:42:19.385232Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:42:19.587319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/lib/supabase.ts")}
+2025-05-09T01:42:19.587339Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:42:19.785587Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/lib")}
+2025-05-09T01:42:19.785664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-09T01:42:19.834143Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun

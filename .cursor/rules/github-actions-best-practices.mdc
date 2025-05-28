@@ -1,0 +1,10 @@
+---
+name: github-actions-best-practices.mdc
+description: Best practices for CI/CD pipelines with GitHub Actions
+globs: **/.github/workflows/*.yml
+---
+
+- Use reusable workflows for DRY pipelines
+- Implement proper error handling and notifications
+- Utilize GitHub's caching for faster builds
+- Optimize pipeline performance with matrix strategies 

@@ -1,0 +1,10 @@
+---
+name: vercel-best-practices.mdc
+description: Best practices for deploying applications on Vercel
+globs: **/vercel.json
+---
+
+- Use Vercel's serverless functions for backend logic
+- Implement proper environment variable management
+- Utilize Vercel's edge runtime for better performance
+- Optimize build and deployment times with Vercel's caching 

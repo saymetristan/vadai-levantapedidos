@@ -1,0 +1,104 @@
+2025-02-24T00:57:10.776222Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: Unable to convert to yaml: missing field `importers`
+2025-02-24T00:57:10.879053Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2025-02-24T00:57:10.879078Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T00:58:16.278593Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-workspace.yaml")}
+2025-02-24T00:58:16.278610Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T00:58:22.478871Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-workspace.yaml")}
+2025-02-24T00:58:22.478881Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T00:58:27.678340Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-02-24T00:58:27.678348Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-02-24T00:58:27.689278Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: Unable to convert to yaml: missing field `importers`
+2025-02-24T00:58:34.078395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-02-24T00:58:34.078411Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-02-24T00:58:34.089960Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: Unable to convert to yaml: missing field `importers`
+2025-02-24T00:58:42.678890Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_17079_bcf9d5aaf03e159bda1e60200a19215c")}
+2025-02-24T00:58:42.678899Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T00:58:45.881387Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-02-24T00:58:45.881394Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-02-24T00:58:45.979421Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-02-24T00:58:45.979428Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-02-24T00:58:46.080997Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-02-24T00:58:46.081006Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-02-24T00:58:47.577077Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.1916465087")}
+2025-02-24T00:58:47.577086Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T00:58:51.077791Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2025-02-24T00:58:51.077799Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T00:58:55.977592Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/env.d.ts"), AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts"), AnchoredSystemPathBuf("apps/frontend/.astro")}
+2025-02-24T00:58:55.977601Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T00:58:56.777136Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/settings.json")}
+2025-02-24T00:58:56.777168Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T00:58:56.777204Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-02-24T01:07:35.505245Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_18351_078a9b23a387a47a148196a4f2f1cefc")}
+2025-02-24T01:07:35.505258Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:07:36.907429Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/package.json.3004315396"), AnchoredSystemPathBuf("apps/frontend/package.json"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.1777682350")}
+2025-02-24T01:07:36.907438Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:07:37.005972Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-02-24T01:07:37.005981Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:07:54.805473Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_18444_6ef365e74fd623c2bc7d88608a83d967"), AnchoredSystemPathBuf("")}
+2025-02-24T01:07:54.805482Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:07:56.507183Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-02-24T01:07:56.507191Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-02-24T01:07:56.705387Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml.1447917625")}
+2025-02-24T01:07:56.705395Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:07:56.805633Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml.1447917625"), AnchoredSystemPathBuf("apps/frontend/package.json.3166452126"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("apps/frontend/package.json")}
+2025-02-24T01:07:56.805642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:07:56.905775Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-02-24T01:07:56.905784Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:07:56.905796Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-02-24T01:07:58.805399Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/tailwind.config.mjs")}
+2025-02-24T01:07:58.805410Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:00.905608Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/astro.config.mjs")}
+2025-02-24T01:08:00.905618Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:03.505420Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-02-24T01:08:03.505439Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:03.582187Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-02-24T01:08:17.305566Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/tailwind.config.mjs")}
+2025-02-24T01:08:17.305575Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:35.105235Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-02-24T01:08:35.105244Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:37.905312Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-02-24T01:08:37.905322Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:49.305020Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_18547_c0db98398b408f3b598e4bf6248474fa")}
+2025-02-24T01:08:49.305033Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:08:50.804918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml.1502842713"), AnchoredSystemPathBuf("apps/frontend/package.json.382323274"), AnchoredSystemPathBuf("apps/frontend/package.json"), AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts"), AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2025-02-24T01:08:50.804929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:08:58.505407Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_18602_6245d6ee17c0f7181e6ec292e88635fa"), AnchoredSystemPathBuf("")}
+2025-02-24T01:08:58.505423Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:09:00.108306Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-02-24T01:09:00.108313Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-02-24T01:09:00.505132Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts"), AnchoredSystemPathBuf("apps/frontend/package.json"), AnchoredSystemPathBuf("apps/frontend/package.json.4172894861"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.589991975")}
+2025-02-24T01:09:00.505142Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:10:32.305483Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/layouts/Layout.astro")}
+2025-02-24T01:10:32.305496Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:10:38.405422Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Welcome.svelte")}
+2025-02-24T01:10:38.405430Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:10:47.105397Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts"), AnchoredSystemPathBuf("apps/frontend/tsconfig.json")}
+2025-02-24T01:10:47.105407Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:11:19.405444Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/astro.config.mjs")}
+2025-02-24T01:11:19.405453Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:11:19.704857Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-02-24T01:11:19.704887Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:11:19.797009Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-02-24T01:11:42.404302Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_18920_91a49f2879d03be8c11e3f7320ed39b8"), AnchoredSystemPathBuf("")}
+2025-02-24T01:11:42.404317Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:11:44.004453Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.2803563985")}
+2025-02-24T01:11:44.004461Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:11:55.604993Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/tailwind.config.mjs"), AnchoredSystemPathBuf("apps/frontend/components.json"), AnchoredSystemPathBuf("apps/frontend/$lib"), AnchoredSystemPathBuf("apps/frontend/$lib/components")}
+2025-02-24T01:11:55.605002Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:11:55.904466Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/$lib/utils.ts"), AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-02-24T01:11:55.904474Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:11:56.205064Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_18985_faf6cc88a05311078baaf1dd04079f95")}
+2025-02-24T01:11:56.205150Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:11:57.304392Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/package.json"), AnchoredSystemPathBuf("pnpm-lock.yaml.732399620"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("apps/frontend/package.json.3719357720")}
+2025-02-24T01:11:57.304633Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:11:57.404497Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-02-24T01:11:57.404514Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:12:40.004628Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2025-02-24T01:12:40.004637Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:12:42.004422Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-02-24T01:12:42.004515Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@un-segundo/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-02-24T01:12:42.074606Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-02-24T01:13:15.304312Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("project-docs/developer-plan.md")}
+2025-02-24T01:13:15.304340Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-24T01:13:16.204580Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("project-docs/developer-plan.md")}
+2025-02-24T01:13:16.204604Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))

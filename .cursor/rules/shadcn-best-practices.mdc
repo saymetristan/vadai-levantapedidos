@@ -1,0 +1,10 @@
+---
+name: shadcn-best-practices.mdc
+description: Best practices for using Shadcn UI components
+globs: **/*.{ts,tsx,js,jsx}
+---
+
+- Follow Shadcn's component naming conventions
+- Use Shadcn's prop-based customization for flexibility
+- Implement proper accessibility features in components
+- Leverage Shadcn's dark mode support for better UX 

@@ -1,0 +1,10 @@
+---
+name: astro-best-practices.mdc
+description: Best practices for Astro static site generation and hybrid rendering
+globs: **/*.{astro,ts,js}
+---
+
+- Use Astro's component islands for interactivity
+- Leverage Astro's built-in optimizations for performance
+- Implement proper content fetching strategies
+- Use Astro's partial hydration for better user experience 

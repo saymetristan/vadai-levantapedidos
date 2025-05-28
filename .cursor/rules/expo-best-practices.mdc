@@ -1,0 +1,10 @@
+---
+name: expo-best-practices.mdc
+description: Best practices for developing mobile and desktop apps with Expo
+globs: **/*.{ts,tsx,js,jsx}
+---
+
+- Use Expo's managed workflow for easier setup
+- Implement proper app configuration with app.json
+- Utilize Expo's APIs for native features
+- Optimize app performance with Expo's asset management 

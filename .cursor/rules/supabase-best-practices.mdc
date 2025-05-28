@@ -1,0 +1,10 @@
+---
+name: supabase-best-practices.mdc
+description: Best practices for managing data and authentication with Supabase
+globs: **/*.{ts,js}
+---
+
+- Use Supabase's Row Level Security for data protection
+- Implement proper error handling for API calls
+- Utilize Supabase's real-time capabilities for live updates
+- Optimize database queries with Supabase's query planner 

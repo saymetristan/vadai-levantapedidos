@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import LevantapedidosApp from '../components/LevantapedidosApp.svelte';
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+---
+
+<Layout title="Levantapedidos - Generador de Pedidos Sugeridos">
+	<main class="min-h-screen bg-gray-100 py-8">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+			<div class="text-center mb-8">
+				<h1 class="text-4xl font-bold text-gray-900 mb-2">Levantapedidos</h1>
+				<p class="text-lg text-gray-600">Generador inteligente de pedidos sugeridos</p>
+			</div>
+
+			<LevantapedidosApp client:load />
+		</div>
+	</main>
+</Layout>

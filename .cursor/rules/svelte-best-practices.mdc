@@ -1,0 +1,10 @@
+---
+name: svelte-best-practices.mdc
+description: Best practices for Svelte component development and reactivity
+globs: **/*.{svelte,ts,js}
+---
+
+- Use Svelte's store for global state management
+- Implement reactive declarations for efficient updates
+- Use Svelte's context API for component communication
+- Optimize component rendering with keyed each blocks 

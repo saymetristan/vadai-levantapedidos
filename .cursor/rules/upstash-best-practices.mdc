@@ -1,0 +1,10 @@
+---
+name: upstash-best-practices.mdc
+description: Best practices for using Upstash for real-time functionalities
+globs: **/*.{ts,js}
+---
+
+- Use Upstash Redis for caching and session management
+- Implement proper error handling for Upstash API calls
+- Utilize Upstash's WebSocket support for real-time updates
+- Optimize data storage with Upstash's data structures 

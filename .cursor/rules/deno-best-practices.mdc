@@ -1,0 +1,10 @@
+---
+name: deno-best-practices.mdc
+description: Best practices for using Deno as a runtime environment
+globs: **/*.{ts,js}
+---
+
+- Use Deno's built-in security features like permissions
+- Leverage Deno's standard library for common tasks
+- Utilize Deno's TypeScript support for better type safety
+- Implement proper error handling with Deno's error classes 

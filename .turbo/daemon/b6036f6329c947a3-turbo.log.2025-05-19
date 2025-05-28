@@ -1,0 +1,64 @@
+2025-05-19T21:21:56.331821Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie"), AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2025-05-19T21:21:56.331861Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T21:22:04.834986Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-19T21:22:04.835007Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T21:22:51.830322Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/deno.acbf6cad.tmp")}
+2025-05-19T21:22:51.830340Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:18:47.353411Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-05-19T23:18:47.353444Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-19T23:18:56.052387Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/package.json")}
+2025-05-19T23:18:56.054134Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:18:56.150657Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/package.json")}
+2025-05-19T23:18:56.150683Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:18:56.150767Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-19T23:18:56.751177Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-19T23:18:56.751205Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:18:56.800609Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-19T23:19:04.451636Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Welcome.svelte")}
+2025-05-19T23:19:04.451812Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:19:05.556875Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Welcome.svelte")}
+2025-05-19T23:19:05.556893Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:19:05.654827Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-19T23:19:27.058766Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-05-19T23:19:27.058796Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-19T23:19:27.155889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/package.json")}
+2025-05-19T23:19:27.156166Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mi-proyecto/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:19:27.351676Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-19T23:19:27.351695Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mi-proyecto/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:19:27.381192Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-19T23:19:27.903941Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Welcome.svelte")}
+2025-05-19T23:19:27.904692Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@mi-proyecto/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:19:38.253093Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-05-19T23:19:38.253122Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-19T23:19:46.753454Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-05-19T23:19:46.753959Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-19T23:20:26.066510Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json"), AnchoredSystemPathBuf(".!43672!package.json")}
+2025-05-19T23:20:26.066526Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-05-19T23:20:35.654037Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.!43692!package.json"), AnchoredSystemPathBuf("apps/frontend/package.json")}
+2025-05-19T23:20:35.654059Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:20:36.453312Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-19T23:20:36.453349Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:20:36.506264Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-19T23:20:48.353991Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-19T23:20:48.354063Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:21:04.655109Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Welcome.svelte")}
+2025-05-19T23:21:04.655195Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:21:15.566943Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/main.ts")}
+2025-05-19T23:21:15.566959Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:21:25.255931Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-05-19T23:21:25.256111Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:21:57.256442Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-05-19T23:21:57.256462Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:22:52.461269Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2025-05-19T23:22:52.461334Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:23:02.258660Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-19T23:23:02.258681Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@boilerplate/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-19T23:23:02.258730Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-19T23:25:46.563005Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-05-19T23:25:46.563023Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:25:52.764272Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-05-19T23:25:52.764312Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:26:00.364365Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-05-19T23:26:00.364387Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-19T23:26:38.365117Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-05-19T23:26:38.365132Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
