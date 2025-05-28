@@ -3,7 +3,7 @@ builder = "NIXPACKS"
 
 [deploy]
 buildCommand = "pnpm build"
-startCommand = "node ./dist/server/entry.mjs"
+startCommand = "npx serve dist -s -l $PORT"
 
 [env]
 NIXPACKS_NODE_VERSION = "18"
