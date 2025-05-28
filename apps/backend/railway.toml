@@ -1,0 +1,9 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "deno run --allow-net --allow-read --allow-env src/main.ts"
+
+[env]
+DENO_VERSION = "1.40.0"
+PORT = "8000" 
