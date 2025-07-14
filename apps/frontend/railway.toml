@@ -1,9 +1,9 @@
 [build]
 builder = "DOCKERFILE"
-dockerfilePath = "Dockerfile"  // Explícito para Railway
+dockerfilePath = "Dockerfile"
 
 [deploy]
-startCommand = ""  // Fuerza uso de CMD del Dockerfile
+startCommand = ""
 
 [env]
-PORT = "3000"  // Fallback, aunque Docker lo maneja 
+PORT = "3000" 
