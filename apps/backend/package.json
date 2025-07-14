@@ -1,0 +1,12 @@
+{
+  "name": "@levantapedidos/backend",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "deno task dev",
+    "start": "deno task start",
+    "build": "deno task start",
+    "test": "deno task test"
+  },
+  "dependencies": {}
+} 

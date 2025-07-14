@@ -1,10 +1,8 @@
 [build]
-builder = "NIXPACKS"
+builder = "DOCKERFILE"
 
 [deploy]
-buildCommand = "pnpm build"
-startCommand = "npx serve dist -s -l $PORT"
+startCommand = ""
 
 [env]
-NIXPACKS_NODE_VERSION = "18"
-HOST = "0.0.0.0" 
+PORT = "3000" 

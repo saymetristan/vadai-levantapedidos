@@ -1,0 +1,359 @@
+2025-05-28T20:51:27.764236Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2025-05-28T20:51:27.764340Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:51:39.064059Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-28T20:51:39.064288Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:52:20.778084Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("test-api.js")}
+2025-05-28T20:52:20.778150Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:52:20.864622Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("test-api.js")}
+2025-05-28T20:52:20.864635Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:55:14.869157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/test-server.ts")}
+2025-05-28T20:55:14.869175Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:55:14.969522Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/test-server.ts")}
+2025-05-28T20:55:14.969537Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:55:16.769137Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/test-server.ts")}
+2025-05-28T20:55:16.769160Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:18.352888Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/types.ts")}
+2025-05-28T20:56:18.352923Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:18.469955Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/utils/dominiodzApi.ts")}
+2025-05-28T20:56:18.469969Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:18.669803Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/utils/calc.ts")}
+2025-05-28T20:56:18.669882Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:19.171251Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/routes/salesSummary.ts")}
+2025-05-28T20:56:19.171337Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:19.680709Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/lib/types.ts")}
+2025-05-28T20:56:19.681223Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:56:20.026803Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/lib/types.ts")}
+2025-05-28T20:56:20.026816Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:56:20.026891Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T20:56:20.274625Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T20:56:20.274645Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:56:21.753826Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T20:56:21.753856Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:56:26.470966Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T20:56:26.470985Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:56:27.170413Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T20:56:27.170436Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:56:27.399069Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/test-server.ts")}
+2025-05-28T20:56:27.399089Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:43.671004Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/types.ts")}
+2025-05-28T20:56:43.671026Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:56:52.276473Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/lib/types.ts")}
+2025-05-28T20:56:52.276532Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:57:13.571226Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/utils/calc.ts")}
+2025-05-28T20:57:13.571244Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:57:19.372110Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/utils/calc.ts")}
+2025-05-28T20:57:19.372124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:57:43.772556Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/utils/dominiodzApi.ts")}
+2025-05-28T20:57:43.772572Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:58:05.273728Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/utils/dominiodzApi.ts")}
+2025-05-28T20:58:05.273746Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:58:25.573578Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/backend/src/routes/salesSummary.ts")}
+2025-05-28T20:58:25.577588Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-05-28T20:58:53.273016Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T20:58:53.273273Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:59:30.174947Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T20:59:30.174970Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:59:30.438111Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T20:59:30.438173Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T20:59:30.438569Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:00:09.275610Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:00:09.275628Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:00:16.575918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:00:16.575974Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:01:50.377908Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-28T21:01:50.378034Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:01:50.456165Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:06:25.783676Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:06:25.783858Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:06:26.149289Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:06:26.149309Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:06:26.149376Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:06:36.386848Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:06:36.386867Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:06:36.609981Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:06:36.610046Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:06:36.610142Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:06:46.488139Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:06:46.488213Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:06:46.637229Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:06:46.637242Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:06:46.637297Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:06:56.385445Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:06:56.385604Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:07:03.785937Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:07:03.786106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:12:23.491915Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:12:23.492263Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:12:58.496086Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T21:12:58.496141Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:13:50.007942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:13:50.013695Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:14:13.694639Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-28T21:14:13.694674Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:14:13.726032Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:16:20.197359Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:16:20.197415Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:18:13.998489Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:18:13.998971Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:18:14.400552Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:18:14.400570Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:18:14.527707Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:18:14.527814Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:18:14.529268Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:18:14.599346Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:18:14.599360Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:19:10.900746Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:19:10.900880Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:35:19.751374Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:35:19.752401Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:39:20.654863Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:39:20.654949Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:41:24.657516Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:41:24.657541Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:45:23.561873Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:45:23.561977Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:47:35.266336Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:47:35.266588Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:47:37.465441Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:47:37.465863Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:47:37.581155Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:47:37.581776Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:47:37.581908Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:47:37.582288Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:47:38.797637Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:47:38.797807Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:47:39.156860Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:47:39.157048Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T21:47:39.157058Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:47:39.157149Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:48:40.865090Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:48:40.865113Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:52:55.782533Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:52:55.783051Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:52:55.917258Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:52:55.917272Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:52:55.917347Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T21:56:01.775536Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:56:01.775608Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:58:44.801261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:58:44.801442Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T21:58:54.380222Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T21:58:54.380243Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:00:06.493143Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-28T22:00:06.493164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:00:06.679209Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T22:01:23.382639Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T22:01:23.382691Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:01:41.483136Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T22:01:41.483192Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:01:56.786890Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T22:01:56.786909Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:01:59.386437Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T22:01:59.386649Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:01:59.507072Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T22:03:11.702316Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T22:03:11.702409Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T22:03:28.421528Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T22:03:28.421555Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:08:49.625063Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:08:49.625150Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:08:49.820473Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:09:12.725128Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:09:12.725152Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:09:13.925117Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:09:13.925134Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:09:13.994172Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:09:14.726575Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:09:14.726808Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:09:14.820673Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:10:54.807987Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:10:54.808071Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:11:24.105427Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:11:24.105441Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:11:24.315126Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:11:24.315209Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:11:24.315288Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:11:31.907091Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:11:31.907109Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:11:31.990634Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:11:32.023637Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:11:32.023648Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:11:32.023692Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:12:53.806804Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:12:53.806877Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:13:16.306197Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:13:16.306228Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:13:16.361479Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:14:55.907492Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:14:55.907508Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:15:07.811513Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:15:07.811534Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:18:03.412982Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:18:03.413131Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:18:03.563021Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:18:32.513007Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:18:32.513029Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:18:32.888552Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:18:32.888782Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:18:32.888838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:18:32.888960Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:22:04.017650Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:22:04.017667Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:22:33.318060Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:22:33.318395Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:22:48.818928Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:22:48.818966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:23:14.419809Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:23:14.419827Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:23:42.919618Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:23:42.920515Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:23:43.098843Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:23:43.098862Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:23:43.098919Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:24:28.121275Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:24:28.121374Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:25:06.021516Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:25:06.021541Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:25:06.059597Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:28:42.934643Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/global.css")}
+2025-05-28T23:28:42.934859Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:28:43.435915Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/global.css")}
+2025-05-28T23:28:43.435933Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:28:43.435993Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:28:44.826990Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/global.css")}
+2025-05-28T23:28:44.827006Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:28:44.928957Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/global.css")}
+2025-05-28T23:28:44.928975Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:28:44.929036Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:29:20.827275Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/layouts/Layout.astro")}
+2025-05-28T23:29:20.827343Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:30:13.674086Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-28T23:30:13.674101Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:30:13.774502Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-28T23:30:13.774516Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:30:13.774557Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:31:15.773649Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:31:15.773674Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:32:16.775767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:32:16.775787Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:32:37.175720Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/public/favicon.svg")}
+2025-05-28T23:32:37.175735Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:32:37.414563Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/public/favicon.svg")}
+2025-05-28T23:32:37.414579Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:32:37.414634Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:37:07.973838Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:37:07.979305Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:37:08.002565Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:37:10.478557Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:37:10.478585Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:37:10.587981Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:38:48.373472Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/global.css")}
+2025-05-28T23:38:48.373614Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:48.635218Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/global.css")}
+2025-05-28T23:38:48.635233Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:48.635306Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:38:48.820080Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/layouts/Layout.astro")}
+2025-05-28T23:38:48.820099Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:48.977456Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/layouts/Layout.astro")}
+2025-05-28T23:38:48.977500Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:48.977563Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:38:49.075321Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-28T23:38:49.075338Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:49.295795Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:38:49.295852Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:49.303517Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:38:49.683825Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:38:49.683841Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:50.114177Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:38:50.114207Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:38:50.114595Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:38:50.474105Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/public/favicon.svg")}
+2025-05-28T23:38:50.474161Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:40:21.879668Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-05-28T23:40:21.879708Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:40:22.010752Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-05-28T23:40:22.010794Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:40:22.011060Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:40:45.373219Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Header.svelte")}
+2025-05-28T23:40:45.373452Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:40:46.872813Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Header.svelte")}
+2025-05-28T23:40:46.872935Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:41:20.979573Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-28T23:41:20.980720Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:42:07.772852Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:42:07.772873Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:42:56.773025Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:42:56.773043Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:42:56.949855Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:42:56.949873Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:42:56.950235Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:43:26.572247Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:43:26.572262Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:43:26.824119Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:43:27.574319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:43:27.574417Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:43:27.681620Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:43:27.681767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:43:27.681773Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:43:27.681814Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:45:14.873316Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-05-28T23:45:14.873338Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:45:15.121330Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Header.svelte")}
+2025-05-28T23:45:15.121350Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:45:15.121390Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:45:15.271879Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/Header.svelte")}
+2025-05-28T23:45:15.271897Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:45:15.472770Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-28T23:45:15.472788Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:45:15.725245Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:45:15.725261Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:45:15.725321Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:45:15.872321Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:45:15.872390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:46:17.082020Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/pages/index.astro")}
+2025-05-28T23:46:17.082319Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:47:02.092146Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:47:02.092162Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:48:01.092086Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:48:01.092103Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:49:31.393611Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:49:31.394124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:05.392299Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/LevantapedidosApp.svelte")}
+2025-05-28T23:50:05.392319Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:05.776126Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:50:08.893082Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:50:08.893097Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:09.041144Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:50:09.041261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrderForm.svelte")}
+2025-05-28T23:50:09.041266Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:09.041309Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:50:13.095030Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:50:13.095130Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:13.207965Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:50:47.294225Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T23:50:47.294329Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:47.437131Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T23:50:47.437292Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:50:47.437407Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:51:31.796065Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-05-28T23:51:31.796082Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:51:55.693385Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/PdfButton.svelte")}
+2025-05-28T23:51:55.693404Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:51:55.793316Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:52:54.195013Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/.astro/types.d.ts")}
+2025-05-28T23:52:54.195142Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:52:54.236379Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:53:25.400473Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:53:25.400696Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:53:26.295427Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/styles/globals.css")}
+2025-05-28T23:53:26.295447Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:57:53.297341Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:57:53.298788Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:58:12.796311Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:58:12.796331Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:58:12.880453Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:58:12.897132Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:58:12.897146Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
+2025-05-28T23:58:12.897210Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-05-28T23:58:37.795760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/src/components/OrdersTable.svelte")}
+2025-05-28T23:58:37.795780Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@levantapedidos/frontend"), path: AnchoredSystemPathBuf("apps/frontend") }}))
