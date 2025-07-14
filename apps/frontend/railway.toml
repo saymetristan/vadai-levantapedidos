@@ -7,4 +7,3 @@ startCommand = ""  // Fuerza uso de CMD del Dockerfile
 
 [env]
 PORT = "3000"  // Fallback, aunque Docker lo maneja 
-rootDirectory = "apps/frontend"  // Sin / inicial 
