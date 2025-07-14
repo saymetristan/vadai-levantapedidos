@@ -20,10 +20,10 @@ FROM node:18-slim
 
 WORKDIR /app
 
-RUN npm install -g http-server
+RUN npm install -g http-server@14.1.1
 
-COPY --from=builder /app/apps/frontend/dist /app/dist
+COPY --from=builder /app/apps/frontend/dist ./dist
 
 EXPOSE $PORT
 
-CMD ["http-server", "/app/dist", "-p", "${PORT:-3000}", "-a", "0.0.0.0"] 
+CMD ["http-server", "./dist", "-p", "${PORT:-3000}", "-a", "0.0.0.0", "--proxy", "http://localhost:${PORT}?"] 
