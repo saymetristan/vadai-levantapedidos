@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "deno task dev",
     "start": "deno task start",
-    "build": "deno task start",
+    "build": "echo 'No build needed for Deno'",
     "test": "deno task test"
   },
   "dependencies": {}
