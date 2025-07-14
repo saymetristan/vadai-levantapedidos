@@ -26,4 +26,4 @@ COPY --from=builder /app/apps/frontend/dist ./dist
 
 EXPOSE $PORT
 
-CMD ["http-server", "./dist", "-p", "${PORT:-3000}", "-a", "0.0.0.0", "--proxy", "http://localhost:${PORT}?"] 
+CMD ["http-server", "./dist", "--port", "${PORT:-3000}", "--address", "0.0.0.0", "--proxy", "http://localhost:${PORT}?"] 
