@@ -18,4 +18,4 @@ COPY --from=builder /app/dist ./dist
 
 EXPOSE $PORT
 
-CMD ["http-server", "./dist", "--port", "${PORT:-3000}", "--address", "0.0.0.0"]
+CMD http-server ./dist --port ${PORT:-3000} --address 0.0.0.0
