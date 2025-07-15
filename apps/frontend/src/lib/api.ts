@@ -1,6 +1,10 @@
 import type { FormState, OrderSuggestion, OrderSummary, ApiError, ClientData } from './types';
 
-const API_BASE_URL = import.meta.env.PUBLIC_API_URL || 'http://localhost:8000';
+const API_BASE_URL =
+  import.meta.env.PUBLIC_API_URL ||
+  (import.meta.env.MODE === 'production'
+    ? 'https://backend-service-production-9e8d.up.railway.app'
+    : 'http://localhost:8000');
 
 export class ApiService {
   static async getSalesSummary(params: FormState): Promise<OrderSummary> {
