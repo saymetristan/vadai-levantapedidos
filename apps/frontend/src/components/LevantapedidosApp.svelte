@@ -4,6 +4,9 @@
   import PdfButton from './PdfButton.svelte';
   import type { OrderSuggestion, OrderSummary, UiOrderRow, FormState, ClientData } from '../lib/types';
 
+  // Debug visual: imprime la variable de entorno
+  console.log('PUBLIC_API_URL:', import.meta.env.PUBLIC_API_URL);
+
   let orderSummary: OrderSummary | null = null;
   let currentRows: UiOrderRow[] = [];
   let isLoading = false;
